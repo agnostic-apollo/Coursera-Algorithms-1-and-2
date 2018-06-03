@@ -1,0 +1,5 @@
+download boost from boost website
+https://www.boost.org/users/history/version_1_55_0.html
+extract contents of subdirectory boost_1_55_0.zip/boost_1_55_0 into a directory, example D:\Others\Boost
+
+add "D:\Others\Boost"  to codeblocks settings->compiler...->Search directories->compiler 

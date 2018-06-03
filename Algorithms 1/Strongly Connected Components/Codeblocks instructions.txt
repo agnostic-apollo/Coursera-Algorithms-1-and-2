@@ -1,0 +1,4 @@
+add "-Wl,--stack,100000000"  to codeblocks settings->compiler...->linker settings->other linker options  
+that increase recursive calls stack size to 100mb
+make sure you have that much free ram when running the code
+don't forget to extract SCC.txt from SCC.zip before running code
